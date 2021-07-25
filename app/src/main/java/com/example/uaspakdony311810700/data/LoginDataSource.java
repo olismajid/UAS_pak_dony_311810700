@@ -4,7 +4,7 @@ import com.example.uaspakdony311810700.data.model.LoggedInUser;
 
 import java.io.IOException;
 
-import id.ic.pelitabangsa.dendiyp.uas_dendiyanapermadi.data.model.LoggedInUser;
+import com.example.uaspakdony311810700.data.model.LoggedInUser;
 
 /**
  * Class that handles authentication w/ login credentials and retrieves user information.

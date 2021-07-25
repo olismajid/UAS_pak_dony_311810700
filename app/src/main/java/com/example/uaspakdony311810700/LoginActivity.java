@@ -24,7 +24,7 @@ public class LoginActivity extends AppCompatActivity {
         });
     }
     public void openLoginMainActivity2(){
-        Intent intent = new Intent(this, id.ic.pelitabangsa.dendiyp.uas_dendiyanapermadi.MainActivity2.class);
+        Intent intent = new Intent(this, com.example.uaspakdony311810700.MainActivity2.class);
         startActivity(intent);
     }
 }
